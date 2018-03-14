@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
-favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
-rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+title: Josep Anton Mir Tutusaus CV
+description: Josep Anton Mir Tutusaus CV
+favicon: assets/img/avatar.JPG
+#baseurl: https://jantonz.github.io/Resume
+url: https://jantonz.github.io/Resume
+#rss_url: /pages/atom.xml
+#google_analytics: UA-63653234-1
 
 # Build settings
 markdown: kramdown
@@ -14,16 +14,16 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Josep Anton Mir Tutusaus
   title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  address: Vilafranca del Penedès, Barcelona
+  email: jantonz#gmail.com
+#  link: http://ddbullfrog.com
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  github: jantonz
+  linkedin: josepantonmir
+  twitter: ja_mirtutu
+  gavatar: assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
@@ -59,23 +59,29 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Catalan
       proficiency: Native
     - language2:
       name: English
-      proficiency: Professional
+      proficiency: Proficient
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Spanish
+      proficiency: Native
+    - language4:
+      name: French
+      proficiency: Proficient
+    - language4:
+      name: German
+      proficiency: Elementary
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Python
       percentage: 100%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: R
+      percentage: 100%
     - skill3:
-      name: JavaScript
+      name: Octave/Matlab
       percentage: 70%
     - skill4:
       name: AngularJS
