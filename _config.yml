@@ -1,9 +1,9 @@
 # Site settings
 title: Josep Anton Mir Tutusaus CV
 description: Josep Anton Mir Tutusaus CV
-favicon: assets/img/avatar.JPG
+favicon: assets/img/profile.png
 #baseurl: https://jantonz.github.io/Resume
-url: https://jantonz.github.io/Resume
+url: https://jantonz.github.io/Resume/
 #rss_url: /pages/atom.xml
 #google_analytics: UA-63653234-1
 
@@ -15,15 +15,15 @@ exclude: [vendor]
 # Author settings
 author:
   name: Josep Anton Mir Tutusaus
-  title: Java Developer
+  title: Environmental Engineer, Data Scientist, Python & R developer, Deep Learning Ninja
   address: Vilafranca del Penedès, Barcelona
-  email: jantonz#gmail.com
+  email: jantonz@gmail.com
 #  link: http://ddbullfrog.com
   weibo:
   github: jantonz
   linkedin: josepantonmir
-  twitter: ja_mirtutu
-  gavatar: assets/img/avatar.JPG
+  twitter: Josep_Anton_Mir_Tutusaus # En realitat està canviat per researchgate
+  gavatar: assets/img/profile.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
@@ -56,6 +56,25 @@ author:
       major: Software Engineering
       started: 2005
       duration: (2005 - 2009)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  teachingHistory:
+    - teaching1:
+      started: 2005
+      course: R
+      organization: XXXXXX University
+      location: Shenyang, China
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - teaching2:
+      started: 2005
+      course: Big Data
+      organization: XXXXXX University
+      location: Shenyang, China
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - teaching3:
+      started: 2005
+      course:
+      organization: XXXXXX University
+      location: Shenyang, China
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:

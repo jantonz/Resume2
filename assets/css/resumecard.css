@@ -298,6 +298,7 @@ hr {
 }
 
 /* skills css */
+/* progress bar tipus programmingSkills */
 .list-skills li .progress {
     height: 10px;
     box-shadow: none;
@@ -312,7 +313,7 @@ hr {
     box-shadow: none;
 }
 
-.list-skills li .progress .progress-bar span {
+.list-skills li .progress .progress-bar span { /* progress bar tipus programmingSkills */
     position: relative;
     bottom: -15px;
     font-size: 10px;
@@ -334,11 +335,11 @@ hr {
     border-left: 5px solid transparent;
     border-right: 5px solid transparent;
 }
-
+/* COLOR de les barres a progress bar tipus programmingSkills */
 .list-skills li:nth-child(even) .progress-bar {
     background: #4B6F78;
 }
-
+/* progress bar tipus languageSkills */
 .list-strip li {
     color: white;
     padding: 10px;
@@ -348,7 +349,7 @@ hr {
 }
 
 .list-strip li:nth-child(even) {
-    background: #BA4E4E;
+    background: #63A4B5;
 }
 
 .btn-flat {
@@ -418,10 +419,12 @@ hr {
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
 }
-
+/* per canviar el color de les label etiquetes on posa native, Proficient, etc. a Language Skills */
 .badge-right-float {
     float: right;
+    background:#D84E4E;
 }
+
 
 .ribbon{
   position: absolute;
